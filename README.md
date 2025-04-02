@@ -6,7 +6,7 @@
 📚 Studying Computer Science in Technological University of the Philippines - Manila<br>
 👨🏼‍🎓 3rd year Computer Science student<br>
 🖥️ Full stack developer<br>
-👉Portfolio: https://chomiii.netlify.app/
+👉Portfolio: https://chomiii.vercel.app
 </div>
 
 ###
