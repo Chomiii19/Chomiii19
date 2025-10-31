@@ -4,7 +4,7 @@
 <div align="left">
 📌 Aspiring software engineer<br>
 📚 Studying Computer Science in Technological University of the Philippines - Manila<br>
-👨🏼‍🎓 3rd year Computer Science student<br>
+👨🏼‍🎓 4th year Computer Science student<br>
 🖥️ Full stack developer<br>
 👉Portfolio: https://chomiii.vercel.app
 </div>
